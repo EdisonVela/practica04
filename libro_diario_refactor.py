@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Módulo de Libro Diario (refactorizado).
-
-Objetivo: mejorar calidad de código aplicando PEP8, docstrings,
-validaciones y separación entre lógica y presentación.
-"""
 
 
 class LibroDiario:
